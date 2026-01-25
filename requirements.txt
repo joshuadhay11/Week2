@@ -1,0 +1,5 @@
+nltk
+prettytable
+pandas
+tabulate
+matplotlib
